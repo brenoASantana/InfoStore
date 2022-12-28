@@ -1,0 +1,1 @@
+Este projeto fora desenvolvido para suprir a necessidade de controle de inventário do Laboratória de Hardware do Firjan Senai de Barra do Piraí
